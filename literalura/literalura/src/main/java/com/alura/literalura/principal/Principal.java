@@ -28,7 +28,7 @@ public class Principal {
     public void muestramenu(){
         int opcion = -1;
         String menu = """
-          \n******************** Hello world ********************
+          \******************** Hello world ********************
                    Bienvenido/a al Buscador de Libros
           1) Buscar libro por título 
           2) Listar libros registrados
