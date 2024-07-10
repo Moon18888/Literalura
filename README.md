@@ -9,7 +9,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v14.12-blue)
 ![GSON](https://img.shields.io/badge/Jackson-V2.16.2-blue)
 
-![Libros][(https://images.unsplash.com/photo-1512820790803-83ca734da794)](https://www.bing.com/images/search?view=detailV2&ccid=P3yluKfL&id=41EB8DDB5462A23D976A70FF43632D3A153C6417&thid=OIP.P3yluKfLBLVeKxdOV8pFQQHaEt&mediaurl=https%3a%2f%2fmedia.istockphoto.com%2fphotos%2fshelves-full-of-books-library-background-picture-id539686078%3fk%3d6%26m%3d539686078%26s%3d170667a%26w%3d0%26h%3dQt1S74L6zZW1-OBz9R1vdDzP8juL8Igl1G0q3U-icEo%3d&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3f7ca5b8a7cb04b55e2b174e57ca4541%3frik%3dF2Q8FTotY0P%252fcA%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d799%26srw%3d1259&exph=331&expw=521&q=librero+lleno+de+libros&simid=608052887574815577&FORM=IRPRST&ck=18CE4FA33D441BF8A9ACD75047459146&selectedIndex=17&itb=0)
+![image](https://github.com/Moon18888/Literalura/assets/156857475/ce94a85f-b380-44b4-8039-af6fa6fd8a7f)
+
 
 ### Este proyecto permite a los usuarios buscar libros utilizando la API [Gutendex](https://gutendex.com/) y guardar los resultados en una base de datos PostgreSQL.
 
